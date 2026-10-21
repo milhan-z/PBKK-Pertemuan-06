@@ -42,7 +42,16 @@ Pastikan SQL Server LocalDB telah aktif (otomatis tersedia pada instalasi Visual
 dotnet run
 ```
 
-## Hasil Eksekusi
-Tampilan jendela aplikasi manajemen mahasiswa terhubung ke database SQL Server:
+## Hasil Eksekusi & Bukti Pengujian
+
+Sesuai ketentuan tugas, implementasi mencakup 2 hands-on terintegrasi:
+
+### 1. Hands-on 1: Pengujian Database SQL Server (DDL, Query & Agregasi)
+Verifikasi langsung ke server database `(localdb)\MSSQLLocalDB` melalui utilitas `sqlcmd`:
+
+![Bukti Query SQL Server](./screenshots/sql_database_query.png)
+
+### 2. Hands-on 2: Pengujian Aplikasi Desktop WPF Terhubung SQL Server (ADO.NET)
+Tampilan antarmuka dashboard aplikasi desktop saat terhubung secara aktif dengan database:
 
 ![Hasil Eksekusi Database CRUD](./screenshots/database_crud_gui.png)
