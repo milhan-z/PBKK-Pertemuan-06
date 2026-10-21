@@ -7,7 +7,7 @@ Implementasi persistensi data aplikasi desktop WPF terintegrasi langsung dengan 
 - **NRP:** 5025241264
 - **Kelas:** PBKK C
 - **Dosen Pengampu:** Fajar Baskoro, S.Kom., M.T.
-- **Laporan Notion:** [Buka Laporan di Notion](https://app.notion.com/p/Tugas-PBKK-C-Muhammad-Hilman-Azhar-5025241264-4009c0720c5a81338912dd4d7e9c1525)
+- **Laporan Notion:** [Buka Laporan di Notion](https://app.notion.com/p/Pertemuan-6-Integrasi-WPF-dengan-Database-Relasional-SQL-Server-4009c0720c5a813c8ae6e803436430fc)
 
 ## Deskripsi Singkat
 Aplikasi ini menghubungkan antarmuka desktop WPF ke server database Microsoft SQL Server LocalDB (`(localdb)\MSSQLLocalDB`) secara persisten:
